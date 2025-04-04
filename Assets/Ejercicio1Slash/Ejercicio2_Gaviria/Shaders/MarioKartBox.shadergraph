@@ -4539,8 +4539,8 @@
     "m_ObjectId": "3c49d26d315a4aee8e1a26be8f1ce1bd",
     "m_Title": "RoughnessCircles",
     "m_Position": {
-        "x": -4712.80029296875,
-        "y": 2996.00048828125
+        "x": -4712.0,
+        "y": 2997.0
     }
 }
 
@@ -5332,8 +5332,8 @@
     "m_ObjectId": "4c6f649d2c474e96ab00994cf8b890d6",
     "m_Title": "Position Rotation",
     "m_Position": {
-        "x": -1737.599853515625,
-        "y": -139.199951171875
+        "x": -1737.0,
+        "y": -138.0
     }
 }
 
@@ -9968,8 +9968,8 @@
     "m_ObjectId": "c624c2905b0040478ca5182fb20a01f8",
     "m_Title": "FacinAwareFressnel",
     "m_Position": {
-        "x": -846.39990234375,
-        "y": 3613.599853515625
+        "x": -846.0,
+        "y": 3615.0
     }
 }
 
@@ -10624,8 +10624,8 @@
     "m_ObjectId": "d736c67b39df41de8e098ff0fb088dde",
     "m_Title": "Cubemap Reflections",
     "m_Position": {
-        "x": -2254.39990234375,
-        "y": 1358.400146484375
+        "x": -2254.0,
+        "y": 1359.0
     }
 }
 
@@ -10929,8 +10929,8 @@
     "m_ObjectId": "dd7cbb46c73f465eb588465ab1d23a00",
     "m_Title": "RandomColor",
     "m_Position": {
-        "x": -854.3995971679688,
-        "y": 2916.000244140625
+        "x": -854.0,
+        "y": 2917.0
     }
 }
 
@@ -12226,8 +12226,8 @@
     "m_ObjectId": "f9a261b73ede49fb89b450c80a135d29",
     "m_Title": "Normal Rotation",
     "m_Position": {
-        "x": -1709.5997314453125,
-        "y": 614.400146484375
+        "x": -1709.0,
+        "y": 615.0
     }
 }
 
