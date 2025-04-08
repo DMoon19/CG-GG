@@ -5333,7 +5333,7 @@
     "m_Title": "Position Rotation",
     "m_Position": {
         "x": -1737.0,
-        "y": -138.0
+        "y": -138.0001983642578
     }
 }
 
@@ -9968,7 +9968,7 @@
     "m_ObjectId": "c624c2905b0040478ca5182fb20a01f8",
     "m_Title": "FacinAwareFressnel",
     "m_Position": {
-        "x": -846.0,
+        "x": -845.9999389648438,
         "y": 3615.0
     }
 }
@@ -12227,7 +12227,7 @@
     "m_Title": "Normal Rotation",
     "m_Position": {
         "x": -1709.0,
-        "y": 615.0
+        "y": 614.9998168945313
     }
 }
 
