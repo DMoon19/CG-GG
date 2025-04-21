@@ -1,4 +1,4 @@
-# CG-DJSS
+# CG-GG
 
 ## EJERCICIO 1
 
