@@ -74,7 +74,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _EmissionColor: {r: 1.2311444, g: 1.2311444, b: 1.2311444, a: 1}
+    - _EmissionColor: {r: 11.984316, g: 11.984316, b: 11.984316, a: 1}
     - _SmoothParticlesValues: {r: 0, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
