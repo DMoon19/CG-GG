@@ -53,8 +53,8 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Smoothness: 0.3
-    - _Start: 0.09
+    - _Smoothness: 0.35
+    - _Start: 0.08
     m_Colors: []
   m_BuildTextureStacks: []
   m_AllowLocking: 1

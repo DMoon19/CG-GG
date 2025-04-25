@@ -307,8 +307,8 @@
     ],
     "m_VertexContext": {
         "m_Position": {
-            "x": 0.0,
-            "y": 0.0
+            "x": -572.0000610351563,
+            "y": -429.0000305175781
         },
         "m_Blocks": [
             {
@@ -324,8 +324,8 @@
     },
     "m_FragmentContext": {
         "m_Position": {
-            "x": 0.0,
-            "y": 200.0
+            "x": -572.0000610351563,
+            "y": -243.0
         },
         "m_Blocks": [
             {
@@ -335,7 +335,7 @@
     },
     "m_PreviewData": {
         "serializedMesh": {
-            "m_SerializedMesh": "{\"mesh\":{\"fileID\":10210,\"guid\":\"0000000000000000e000000000000000\",\"type\":0}}",
+            "m_SerializedMesh": "{\"mesh\":{\"fileID\":10202,\"guid\":\"0000000000000000e000000000000000\",\"type\":0}}",
             "m_Guid": ""
         },
         "preventRotation": false
@@ -536,8 +536,8 @@
     "m_ObjectId": "2320b4c3ac0b4eabad415224aaefcc3f",
     "m_Title": "Control inicio/suavidad de la Máscara",
     "m_Position": {
-        "x": -1273.0,
-        "y": -174.0
+        "x": -1562.0001220703125,
+        "y": -283.0000305175781
     }
 }
 
@@ -629,10 +629,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -366.9998474121094,
-            "y": 22.00000762939453,
-            "width": 207.9998321533203,
-            "height": 325.9999694824219
+            "x": -812.0001220703125,
+            "y": -263.0000305175781,
+            "width": 208.0001220703125,
+            "height": 326.00006103515627
         }
     },
     "m_Slots": [
@@ -721,10 +721,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1018.7252197265625,
-            "y": -114.52251434326172,
+            "x": -1336.0001220703125,
+            "y": -86.99998474121094,
             "width": 208.0,
-            "height": 301.6000061035156
+            "height": 302.0
         }
     },
     "m_Slots": [
@@ -765,10 +765,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1247.52490234375,
-            "y": 225.47752380371095,
-            "width": 128.0,
-            "height": 33.5999755859375
+            "x": -1537.0001220703125,
+            "y": 73.0,
+            "width": 101.0,
+            "height": 34.00000762939453
         }
     },
     "m_Slots": [
@@ -888,8 +888,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -866.72509765625,
-            "y": 305.4774475097656,
+            "x": -1336.0001220703125,
+            "y": -158.00001525878907,
             "width": 56.0,
             "height": 24.0
         }
@@ -972,10 +972,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -493.7215576171875,
-            "y": -223.49185180664063,
-            "width": 0.0,
-            "height": 0.0
+            "x": -986.0000610351563,
+            "y": -258.0000305175781,
+            "width": 101.00006103515625,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -1008,10 +1008,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -938.725341796875,
-            "y": 208.6775360107422,
-            "width": 167.2001953125,
-            "height": 33.59991455078125
+            "x": -1255.0001220703125,
+            "y": -134.00001525878907,
+            "width": 140.0,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -1219,10 +1219,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2506.72509765625,
-            "y": -105.72252655029297,
-            "width": 208.0,
-            "height": 311.1999816894531
+            "x": -2440.0,
+            "y": -116.99999237060547,
+            "width": 145.0,
+            "height": 128.99998474121095
         }
     },
     "m_Slots": [
@@ -1236,7 +1236,7 @@
         "coordinates"
     ],
     "m_Precision": 0,
-    "m_PreviewExpanded": true,
+    "m_PreviewExpanded": false,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 0,
     "m_CustomColors": {
@@ -1348,9 +1348,9 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.GroupData",
     "m_ObjectId": "78f190e67da9402ca708d8c3ca73e124",
-    "m_Title": "DistanciaRadial_Cento",
+    "m_Title": "AlcanceRadio",
     "m_Position": {
-        "x": -2531.999755859375,
+        "x": -2465.0,
         "y": -176.0
     }
 }
@@ -1407,10 +1407,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -693.1251220703125,
-            "y": 219.87754821777345,
-            "width": 208.00006103515626,
-            "height": 301.59991455078127
+            "x": -1011.0000610351563,
+            "y": -224.00003051757813,
+            "width": 126.00006103515625,
+            "height": 118.00000762939453
         }
     },
     "m_Slots": [
@@ -1430,7 +1430,7 @@
         "plus"
     ],
     "m_Precision": 0,
-    "m_PreviewExpanded": true,
+    "m_PreviewExpanded": false,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 0,
     "m_CustomColors": {
@@ -1567,10 +1567,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1542.7249755859375,
-            "y": -116.9225082397461,
+            "x": -1822.0001220703125,
+            "y": -86.0,
             "width": 208.0,
-            "height": 277.5999755859375
+            "height": 278.0
         }
     },
     "m_Slots": [
@@ -1644,10 +1644,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1872.3250732421875,
-            "y": -116.9225082397461,
-            "width": 208.0,
-            "height": 301.5999755859375
+            "x": -1985.0001220703125,
+            "y": -86.0,
+            "width": 130.0,
+            "height": 118.0000228881836
         }
     },
     "m_Slots": [
@@ -1668,7 +1668,7 @@
         "take away"
     ],
     "m_Precision": 0,
-    "m_PreviewExpanded": true,
+    "m_PreviewExpanded": false,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 0,
     "m_CustomColors": {
@@ -1727,10 +1727,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -711.525146484375,
-            "y": -114.52251434326172,
-            "width": 207.9998779296875,
-            "height": 301.6000061035156
+            "x": -1093.000244140625,
+            "y": -87.0,
+            "width": 208.0001220703125,
+            "height": 302.0
         }
     },
     "m_Slots": [
