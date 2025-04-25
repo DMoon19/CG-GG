@@ -70,7 +70,7 @@ Material:
     m_Floats:
     - _DISSOLVE: 0
     - _DISSOLVECHANNEL: 3
-    - _DissolveAmount: 0.43
+    - _DissolveAmount: 0.75
     - _DissolveSpeed: 1
     - _EdgeThickness: 0.05
     - _NoiseScale: 12.75
