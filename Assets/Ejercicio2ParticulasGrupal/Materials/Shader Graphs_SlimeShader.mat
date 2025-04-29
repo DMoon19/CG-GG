@@ -55,10 +55,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _DissolveStrenght: 0.38
-    - _EdgeThickness: 0.17
-    - _NoiseOffset: 0.53
-    - _NoiseScale: 17.93
+    - _DissolveStrenght: 0.3
+    - _EdgeThickness: 0.2
+    - _NoiseOffset: 0.67
+    - _NoiseScale: 35.9
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
