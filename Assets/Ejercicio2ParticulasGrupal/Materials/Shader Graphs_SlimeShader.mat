@@ -58,7 +58,7 @@ Material:
     - _DissolveStrenght: 0.3
     - _EdgeThickness: 0.2
     - _NoiseOffset: 0.67
-    - _NoiseScale: 35.9
+    - _NoiseScale: 35.53
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
