@@ -22,4 +22,38 @@ void GetMainLight_float(float3 PositionWS, out half3 Color, out float3 Direction
     
 }
 
+void ComputeLightingForAdditionalLights_float(float3 PositionWS, float3 NormalWS, float3 ViewDirectionWS, out float3 FinalColor)
+{
+    #if defined(SHADERGRAPH_PREVIEW)
+    FinalColor = 0;
+    #else
+    int lightCount = GetAdditionalLightsCount();
+
+    half3 lighting = 0;
+    
+    [unroll(8)]
+    for (uint lightID = 0; lightID < lightCount; i++)
+    {
+        Light light = GetAdditionalLight(lightID, PositionWS);
+
+        //Calculate Lighting
+
+        //Diffuse
+        half lambert = dot(NormalWS, light.direction);
+
+        //Specular
+        float3 h = normalize(light.direction + ViewDirectionWS);
+        half NoH = dot(NormalWS, h);
+        half blinnPhong = pow(saturate(NoH), 50.0f);
+
+        half3 diffuseLighting = light.color * (lambert * light.shadowAttenuation * light.distanceAttenuation);
+        half3 specularLighting = light.color * (blinnPhong * light.shadowAttenuation * light.shadowAttenuation);
+        
+        lighting += diffuseLighting + specularLighting;
+
+    }
+    FinalColor = lighting;
+    #endif
+}
+
 #endif
