@@ -13,6 +13,12 @@ https://github.com/user-attachments/assets/92bdc1dc-cb6e-4b00-9323-4d75a3281f36
 ## EJERCICIO 2
 ### VFX SPLASH
 
+![image](https://github.com/user-attachments/assets/12c4f9e4-d7cc-4178-9f40-2feb1bbc3cc4)
+
+![image](https://github.com/user-attachments/assets/18ffe1fd-6459-4d1a-88df-47acbb475fc6)
+
+https://github.com/user-attachments/assets/30597f36-1a77-4982-9c79-29788b5e7578
+
 
 ## EJERCICIO 3
 
