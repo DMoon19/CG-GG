@@ -54,6 +54,13 @@ https://github.com/user-attachments/assets/6de942a1-77fb-48ea-8474-b25f766df59a
 
 ![image](https://github.com/user-attachments/assets/f2abd805-50a9-45fb-8479-bc7f1b83219e)
 
+## EJERCICIO 4
+
+https://github.com/user-attachments/assets/c6e8bd52-211f-47d8-b24d-f7ae36b7d94e
+
+
+
+
 https://github.com/user-attachments/assets/3c5ae86c-7a1e-4f1f-9d25-b2d31cc082d0
 
 
